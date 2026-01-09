@@ -5,6 +5,10 @@ import HeroSection from '@/components/HeroSection';
 import ManifestoSection from '@/components/ManifestoSection';
 import AboutSection from '@/components/AboutSection';
 import ExpertiseSection from '@/components/ExpertiseSection';
+import AirdropTrackRecordSection from '@/components/AirdropTrackRecordSection';
+import HuntingMethodologySection from '@/components/HuntingMethodologySection';
+import FocusNetworksSection from '@/components/FocusNetworksSection';
+import SecuritySection from '@/components/SecuritySection';
 import TechStackSection from '@/components/TechStackSection';
 import CredentialsSection from '@/components/CredentialsSection';
 import ServicesSection from '@/components/ServicesSection';
@@ -24,6 +28,10 @@ const Index = () => {
           <ManifestoSection />
           <AboutSection />
           <ExpertiseSection />
+          <AirdropTrackRecordSection />
+          <HuntingMethodologySection />
+          <FocusNetworksSection />
+          <SecuritySection />
           <TechStackSection />
           <CredentialsSection />
           <ServicesSection />
