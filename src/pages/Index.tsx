@@ -12,6 +12,7 @@ import SecuritySection from '@/components/SecuritySection';
 import TechStackSection from '@/components/TechStackSection';
 import CredentialsSection from '@/components/CredentialsSection';
 import ServicesSection from '@/components/ServicesSection';
+import ContactSection from '@/components/ContactSection';
 import Footer from '@/components/Footer';
 
 const Index = () => {
@@ -35,6 +36,7 @@ const Index = () => {
           <TechStackSection />
           <CredentialsSection />
           <ServicesSection />
+          <ContactSection />
         </main>
         <Footer />
       </div>
